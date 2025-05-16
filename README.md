@@ -14,7 +14,7 @@ Each folder in this repository contains an individual project with:
 - **Exploratory Data Analysis (EDA)**: Visualizing and summarizing data insights
 - **Statistical Modelling**: Hypothesis testing, regression analysis, inference and interpretation
 - **Machine Learning**: Supervised learning (classification, regression), model evaluation
-- **Python Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, 'Pytorch', and more...
+- **Python Libraries**: `pandas`, `numpy`, `scipy`, `scikit-learn`, `matplotlib`, `seaborn`, `Pytorch`, and more...
 - **Communication**: Visual storytelling, structured reports, clear recommendations
 
 ## 🧪 Sample Projects
