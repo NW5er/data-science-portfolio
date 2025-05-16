@@ -1,7 +1,7 @@
 # Deciding the Next Film Project: Romance vs Horror
 
 ## 📚 Project Overview
-As part of an MSc Data Science assignment, I took on the role of a data scientist at a fictional film production company. The company's last movie was a box office failure, and the CEO — Beff Jezos — has called for data-driven insights to guide the next production decision.
+As part of an MSc Data Science assignment, I took on the role of a data scientist at a fictional film production company. The company's last movie was a box office failure, and the CEO has called for data-driven insights to guide the next production decision.
 
 The challenge: **Should the next movie be a Romance or a Horror film?**  
 In addition, I was tasked with recommending:
